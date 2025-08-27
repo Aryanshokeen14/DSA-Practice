@@ -46,6 +46,7 @@ public:
             s.pop();
         }cout<<endl;
     };
+
 };
 
 int main(){
