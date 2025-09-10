@@ -26,6 +26,6 @@ int binarySearch(int arr[], int key , int s , int e){
 int main(){
     int arr[7] ={1,2,3,4,5,6,7};
     int s=0 , e=6 ;
-    cout<<binarySearch(arr,2,s,e);
+    cout<<binarySearch(arr,6,s,e);
 return 0; 
 }

@@ -11,5 +11,5 @@ int friendsPairing(int n){
 }
 
 int main(){
-    cout<<friendsPairing(5);
+    cout<<friendsPairing(4);
 }

@@ -17,5 +17,5 @@ void binStr(string ans , int n , int lastPlace){
 
 int main(){
     string ans = "";
-    binStr(ans,3,0);
+    binStr(ans,5,0);
 }
